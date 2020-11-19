@@ -1,0 +1,7 @@
+_extensions:
+- jinja2_time.TimeExtension
+_template: git@github.com:funi-main/private-python-library-template.git
+_version: 00b74977366af56a3c5d7ff51670d74b791e24e3
+module_name: test2
+repo_name: test2
+short_description: gthis is a demo for python packages
